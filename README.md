@@ -8,6 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
+| releases/v1 | [`releases/v1`](https://github.com/chainguard-actions/altinukshini-deployment-action/tree/releases/v1) | [`fe2fba1`](https://github.com/altinukshini/deployment-action/commit/fe2fba14b486343ce6893cff73b80e153063917a) |
 | v1.2.6 | [`v1.2.6`](https://github.com/chainguard-actions/altinukshini-deployment-action/tree/v1.2.6) | [`116c22e`](https://github.com/altinukshini/deployment-action/commit/116c22e1b3ed864225978b684c251485f9028e7d) |
 
 ## Privacy
